@@ -1,10 +1,10 @@
-# 🐟 Fish Farming Guide
+# AQUA CULTURE MANAGEMENT SYSTEM (Fish Farming Guide)
 
 A comprehensive, smart aquaculture management platform (ERP) and marketplace connecting fish farmers to consumers. This platform digitalizes the entire aquaculture lifecycle—from pond engineering and water quality tracking to financial ROI and consumer sales.
 
 ## 🌟 Key Features & Farm Activities
 
-### 1. 📊 Dashboard & Smart Alerts
+### 1.  Dashboard & Smart Alerts
 The central hub for the farm owner. It provides a bird's-eye view of all active ponds, live activity logs, and a **Smart Alerts Hub**.
 
 <img width="1783" height="972" alt="Login AS Farmer" src="https://github.com/user-attachments/assets/06911643-9f77-46da-8b59-3b66f9ce1e2b" />
@@ -34,12 +34,7 @@ Ready to Harvest and Transfer Alert
 
 
 
-
-
-
-
-
-### 2. 🌊 Pond Management & Engineering
+### 2.  Pond Management & Engineering
 Handles the physical lifecycle of ponds. 
 * **Capabilities:** Configure pond stage (nursery, grow-out), structure (earthen, concrete), and intensity. Automatically calculates required pond dimensions, capacity, and water volumes (Liters/Gallons). 
 
@@ -49,14 +44,14 @@ Handles the physical lifecycle of ponds.
 
 
 
-### 3. 🐟 Species Management & Polyculture
+### 3.  Species Management & Polyculture
 A built-in biological encyclopedia for regional fish species (e.g., Rohu, Tilapia, Silver Carp).
 * **Capabilities:** Enforces polyculture compatibility rules, monitors temperature/pH/DO limits, manages feeding zones (Surface, Column, Bottom), and enforces stocking density per acre.
 <img width="3046" height="2331" alt="add fish" src="https://github.com/user-attachments/assets/57e67d8b-6a2e-41a2-af84-f0d6dc299144" />
 <img width="393" height="802" alt="update fish size" src="https://github.com/user-attachments/assets/3e4ff59d-ed7d-4109-acf3-609c52aca8b7" />
 
 
-### 4. 🌾 Feeding Management & Nutrition
+### 4.  Feeding Management & Nutrition
 Tracks fish nutrition and feed inventory.
 * **Capabilities:** Recommends daily feed quantities (kg) and types based on current fish biomass and water temperatures. Tracks the biological **Feed Conversion Ratio (FCR)** to ensure maximum growth efficiency.
 * 
@@ -64,18 +59,18 @@ Tracks fish nutrition and feed inventory.
 <img width="390" height="829" alt="add feed and fertilizers stock" src="https://github.com/user-attachments/assets/e29df4fd-c1e2-4f08-864b-8fbfd71c85b3" />
 
 
-### 5. 🌱 Fertilization
+### 5.  Fertilization
 Maintains pond primary productivity without degrading water quality.
 * **Capabilities:** Smart calculators for organic (manure) and inorganic (Urea, DAP) fertilizers based on pond acreage. Logs application history and updates fertilizer inventory.
 <img width="390" height="836" alt="log fertilizers" src="https://github.com/user-attachments/assets/042296b3-5710-49cb-b200-8e1f1f7b2dbb" />
 
-### 6. 🧪 Water Quality & Cycling
+### 6.  Water Quality & Cycling
 Critical environmental monitoring to prevent mortality.
 * **Capabilities:** Logs readings for Temperature, pH, Dissolved Oxygen, and Ammonia. Guides farmers through Tubewell/Canal flushing vs. Mechanical filtration and triggers safety alerts.
 <img width="392" height="837" alt="log water params" src="https://github.com/user-attachments/assets/8253abfc-dab7-4459-80f5-02899218a1d5" />
 
 
-### 7. 🏥 Health & Disease Tracking
+### 7.  Health & Disease Tracking
 A complete veterinary logger and searchable disease catalog.
 * **Capabilities:** Identify diseases via symptoms, log active outbreaks in specific ponds, apply treatments, and deduct medications from the farm's treatment inventory.
 <img width="668" height="563" alt="log disease" src="https://github.com/user-attachments/assets/c666587f-7ef2-43c3-bc88-72f96ede6161" />
@@ -85,7 +80,7 @@ A complete veterinary logger and searchable disease catalog.
 
 
 
-### 8. 📦 Stock & Inventory Management
+### 8.  Stock & Inventory Management
 Centralized inventory tracking.
 * **Capabilities:** Track live fish batches, feed bags, fertilizers, and medications. Supports transferring fish batches between ponds and tracks live asset valuations.
 <img width="3469" height="2331" alt="stock management" src="https://github.com/user-attachments/assets/2614359a-ea63-4345-97ac-db71da513cfe" />
@@ -93,7 +88,7 @@ Centralized inventory tracking.
 
 
 
-### 11. 🛒 Consumer Marketplace
+### 11.  Consumer Marketplace
 A built-in B2C/B2B marketplace bridging the gap between farmers and buyers.
 * **Capabilities:** Farmers list harvest-ready batches. Consumers browse via GPS maps, view farm ratings, and submit purchase requests. Features instant farmer replies with pickup coordinates.
 <img width="1600" height="711" alt="IMG-20260518-WA0002" src="https://github.com/user-attachments/assets/76a21058-ab0c-44b6-b520-8e2591ac077e" />
@@ -117,7 +112,7 @@ A built-in B2C/B2B marketplace bridging the gap between farmers and buyers.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Frontend:** Next.js (App Router), React, Tailwind CSS, Lucide Icons, Leaflet Maps
 * **Backend:** Node.js, Express.js
@@ -126,7 +121,7 @@ A built-in B2C/B2B marketplace bridging the gap between farmers and buyers.
 
 ---
 
-## 🚀 Setup & Installation
+##  Setup & Installation
 
 ### 1. Database Setup
 Ensure you have Microsoft SQL Server installed with a database named `FishFarmDB`.
@@ -147,6 +142,14 @@ npm install
 npm run dev
 ```
 *The frontend will run on `http://localhost:3000`*
+
+CONTRIBUTERS
+
+Zainab Muskan   [@zainab-muskan](https://github.com/zainab-muskan)
+
+Daniyal Mobin Janjua [@daniyal-sec](https://github.com/daniya-sec) 
+
+Haider Ali  [@ali-haider7](https://github.com/ali-haider7) 
 
 ---
 *Documented with ❤️ by the Fish Farming Guide Team.*
