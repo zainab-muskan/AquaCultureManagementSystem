@@ -15,7 +15,7 @@ The central hub for the farm owner. It provides a bird's-eye view of all active 
 * <img width="3170" height="2173" alt="FARM SETUP" src="https://github.com/user-attachments/assets/e65454c3-0b9f-4d8f-83b5-cc8a0bac91c4" />
 
 <img width="1600" height="824" alt="IMG-20260505-WA0038" src="https://github.com/user-attachments/assets/46c3e3b0-ce55-4886-9c2c-c7aaf71cec82" />
-DashBoard
+      
 
 
 
